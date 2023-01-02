@@ -19,7 +19,7 @@ def create(s1:str,s2:str):
         b.append(a1.copy())
         a1.clear()
 
-
+#расстояние
 def Lev(s1:str,s2:str):
     create(s1,s2)
     for i in range(len(s1) + 1):
