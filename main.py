@@ -1,6 +1,6 @@
 import numpy as np
 
-
+s=[]
 a1=[]
 b=[]
 
